@@ -6,7 +6,7 @@ terraform {
   }
 }
 
-provider "aws" {
-  region  = "us-west-2"
-  profile = "cloud-platform-solutions-dev"
-}
+#provider "aws" {
+#  region  = "us-west-2"
+#  profile = "cloud-platform-solutions-dev"
+#}
